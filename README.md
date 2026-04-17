@@ -1,4 +1,4 @@
-## 🏡 House Price Prediction (Data Science Project
+## 🏡 House Price Prediction (Data Science Project)
 
 A professional Machine Learning web application built using **Streamlit** that predicts house prices based on property features such as:
 
