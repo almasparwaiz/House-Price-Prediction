@@ -37,3 +37,9 @@ house-price-prediction-app/
 │   ├── model_feature_columns.json
 │   ├── train house.csv
 │   └── test house.csv
+
+### 👨‍💻 Author
+
+Almas Parwaiz 📧 almasparwaiz1@gmail.com
+
+💼 Machine Learning | Data Science | AI Developer
