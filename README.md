@@ -1,4 +1,4 @@
-## 🏡 House Price Prediction App
+### 🏡 House Price Prediction App
 
 A professional Machine Learning web application built using **Streamlit** that predicts house prices based on property features such as:
 
@@ -11,7 +11,7 @@ A professional Machine Learning web application built using **Streamlit** that p
 - Ready to Move Status
 - Resale / New Property
 
-## 🚀 Live Features
+### 🚀 Live Features
 
 ✅ Real-time House Price Prediction  
 ✅ Clean Professional UI  
@@ -21,11 +21,11 @@ A professional Machine Learning web application built using **Streamlit** that p
 ✅ Address Target Encoding  
 ✅ Fast Prediction Speed  
 
-## Live Demo
+### Live Demo
 
 https://house-price-prediction-appi.streamlit.app/
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 house-price-prediction-app/
 │── app.py
